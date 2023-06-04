@@ -6,5 +6,5 @@ pip install flask Flask-Login flask_bootstrap flask_sqlalchemy
 flask create<br>  
 
 <h4 style="font-size: 16px;"># 説明</h4>  
-<p>*flaskコマンドでdbを作る</p>
+<p>flaskコマンドでdbを作る</p>
 
